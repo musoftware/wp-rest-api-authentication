@@ -23,7 +23,8 @@
 // require plugin_dir_path( dirname( __FILE__ ) ) .'miniorange-api-authentication.php';
 require_once plugin_dir_path( __FILE__ ) . '../includes/class-miniorange-api-authentication-deactivator.php';
 require plugin_dir_path( __FILE__ ) .'/class-miniorange-api-authentication-customer.php';
-// require( 'partials/class-mo-api-authentication-admin-menu.php' );
+
+require( 'partials/class-mo-api-authentication-admin-menu.php' ); 
 require( 'partials/flow/mo-api-authentication-flow.php' );
 require( 'partials/flow/mo-token-api-flow.php' );
 require( 'partials/support/class-mo-api-authentication-feedback.php' );
