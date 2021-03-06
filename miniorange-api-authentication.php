@@ -1,14 +1,14 @@
 <?php
 
 /**
- * Plugin Name:       WordPress REST API Authentication
- * Plugin URI:        wp-rest-api-authentication
+ * Plugin Name:       WordPress REST API Authentication - Musoftware
+ * Plugin URI:        wp-rest-api-authentication-musoftware
  * Description:       WordPress REST API Authentication secures rest API access for unauthorized users using OAuth 2.0, Basic Auth, JWT, API Key. Also reduces potential attack factors to the respective site.
  * Version:           1.4.2
  * Author:            miniOrange
- * Author URI:        https://www.miniorange.com
+ * Author URI:        https://www.musoftwares.com
  * License:           MIT/Expat
- * License URI:       https://docs.miniorange.com/mit-license
+ * License URI:       https://musoftwares.com/
  */
 
 // If this file is called directly, abort.
